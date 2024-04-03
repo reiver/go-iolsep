@@ -25,6 +25,10 @@ Online documentation, which includes examples, can be found at: http://godoc.org
 var readcloser io.ReadCloser = iolsep.NewLineReadCloser(reader)
 ```
 
+## Name
+
+The **“lsep”** (in the package name) is short for “**l**ine **sep**arator”.
+
 ## Import
 
 To import package **iolsep** use `import` code like the follownig:
