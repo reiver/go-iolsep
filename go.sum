@@ -1,0 +1,8 @@
+github.com/reiver/go-ascii v0.0.0-20240302002050-442843e5ea02 h1:YviUVCHZw6gaxvLznXQTXp7LwaWzly80TXUsWxwPPi4=
+github.com/reiver/go-ascii v0.0.0-20240302002050-442843e5ea02/go.mod h1:f43/Y1zpLvqorZN0BelarPzO2GrotAQrBy3T08NUSTM=
+github.com/reiver/go-unicode v0.0.0-20240330202432-e385f372c7f8 h1:nVeubG6cNuKtxg83omhjqwsuGmWoEevARXgCEy/b7mk=
+github.com/reiver/go-unicode v0.0.0-20240330202432-e385f372c7f8/go.mod h1:oQfIIPgO9kwaidcFsKuyAXEODc15w+F1XNl0neJbkVw=
+sourcecode.social/reiver/go-erorr v0.0.0-20230922202459-231149d185a1 h1:wpnz4JicQBLWrgGphYBls7DysIFCcnWgDz/vce/sY8E=
+sourcecode.social/reiver/go-erorr v0.0.0-20230922202459-231149d185a1/go.mod h1:NFtd7fzEf0r6A6R7JXYZfayRhPaJy0zt/18VWoLzrxA=
+sourcecode.social/reiver/go-utf8 v0.0.0-20240331163454-e474e88f6f3c h1:o5uFBZOZlxYyuMp29iedkciwMtSJW9SpFS9hkYPSQEg=
+sourcecode.social/reiver/go-utf8 v0.0.0-20240331163454-e474e88f6f3c/go.mod h1:xZZIkdX6xIkkzalD1YTiM1F3Os9xPaIY7z9s6EBDmCI=
